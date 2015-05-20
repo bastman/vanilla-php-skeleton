@@ -1,0 +1,19 @@
+{
+    "name": "vendor-name/package-name",
+    "config": {
+      "optimize-autoloader": true
+    },
+    "require": {
+        "symfony/console": "@stable"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "authors": [
+        {
+            "name": "vendor-name",
+            "email": "support@vendor-name.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
